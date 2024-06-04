@@ -1,6 +1,3 @@
-# @Time    : 2021-01-24 22:38
-# @Author  : 老赵
-# @File    : manager.py
 from flask_script import Manager
 
 from api import app

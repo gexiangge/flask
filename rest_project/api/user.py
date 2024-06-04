@@ -1,6 +1,3 @@
-# @Time    : 2021-01-24 22:41
-# @Author  : 老赵
-# @File    : user.py
 from flask_restful import Resource, fields, marshal_with
 
 

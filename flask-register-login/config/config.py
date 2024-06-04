@@ -1,6 +1,3 @@
-# @Time    : 2020-11-02 17:11
-# @Author  : 老赵
-# @File    : config.py
 import logging
 
 import redis

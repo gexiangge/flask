@@ -1,6 +1,3 @@
-# @Time    : 2021-01-24 22:49
-# @Author  : 老赵
-# @File    : view.py
 from flask_restful import Resource
 
 
