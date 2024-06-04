@@ -4,8 +4,6 @@ import redis
 
 
 class Config:
-    """工程配置信息"""
-    # 开启调试模式
     DEBUG = True
 
     # 让jsonify返回的json串支持中文显示
